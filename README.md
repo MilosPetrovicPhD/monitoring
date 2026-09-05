@@ -1,2 +1,2 @@
-# monitoring
-Materijali iz predmeta monitoring i upravljanje u biljnoj i stocarskoj proizvodnji
+# matematika-sa-statistikom
+ Materijali iz predmeta Matematika sa statistikom
